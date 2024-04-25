@@ -11,7 +11,7 @@ def convert_events(events: list[Event]) -> str:
     result = ""
     for i, event in enumerate(events):
         result += (
-            f"\nEvent {i}:\n"
+            f"\nEvent {i + 1}:\n"
             f"action: {event.action}\n"
             f"actor: {event.actor}\n"
             f"object_of_action: {event.object_of_action}\n"

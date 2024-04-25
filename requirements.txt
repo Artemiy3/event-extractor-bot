@@ -20,6 +20,7 @@ packaging==24.0
 preshed==3.0.9
 pydantic==2.7.1
 pydantic_core==2.18.2
+pyTelegramBotAPI==4.17.0
 requests==2.31.0
 smart-open==6.4.0
 spacy==3.7.4

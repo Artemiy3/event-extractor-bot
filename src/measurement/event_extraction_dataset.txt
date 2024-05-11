@@ -1,0 +1,100 @@
+John ate an apple yesterday in Moscow. {John, ate an apple, yesterday, Moscow}
+Alice bought a book last week at the park. {Alice, bought a book, last week, the park}
+Mike played with a football this morning at the beach. {Mike, played with a football, this morning, the beach}
+Emma met her friends on Sunday at home. {Emma, met her friends, on Sunday, home}
+John played with his friends yesterday at the park. {John, played with his friends, yesterday, the park}
+Alice ate lunch last week at the beach. {Alice, ate lunch, last week, the beach}
+Mike bought a new phone this morning at home. {Mike, bought a new phone, this morning, home}
+Emma met John on Sunday at the park. {Emma, met John, on Sunday, the park}
+John played soccer yesterday at the beach. {John, played soccer, yesterday, the beach}
+Alice read a book last week at home. {Alice, read a book, last week, home}
+Mike went jogging this morning at the park. {Mike, went jogging, this morning, the park}
+Emma had breakfast on Sunday at home. {Emma, had breakfast, on Sunday, home}
+John ate dinner yesterday in Moscow. {John, ate dinner, yesterday, Moscow}
+Alice bought groceries last week at the store. {Alice, bought groceries, last week, the store}
+Mike played video games this morning at home. {Mike, played video games, this morning, home}
+Emma met her friends on Sunday at the mall. {Emma, met her friends, on Sunday, the mall}
+John studied yesterday at home. {John, studied, yesterday, home}
+Alice cooked dinner last week at home. {Alice, cooked dinner, last week, home}
+Mike watched a movie this morning at the cinema. {Mike, watched a movie, this morning, the cinema}
+Emma went shopping on Sunday at the mall. {Emma, went shopping, on Sunday, the mall}
+John walked his dog yesterday at the park. {John, walked his dog, yesterday, the park}
+Alice had a picnic last week at the beach. {Alice, had a picnic, last week, the beach}
+Mike played basketball this morning at the gym. {Mike, played basketball, this morning, the gym}
+Emma visited her grandparents on Sunday at their house. {Emma, visited her grandparents, on Sunday, their house}
+John cleaned his room yesterday at home. {John, cleaned his room, yesterday, home}
+Alice went for a run last week at the park. {Alice, went for a run, last week, the park}
+Mike had lunch this morning at the cafe. {Mike, had lunch, this morning, the cafe}
+Emma studied on Sunday at the library. {Emma, studied, on Sunday, the library}
+John played guitar yesterday at home. {John, played guitar, yesterday, home}
+Alice went swimming last week at the pool. {Alice, went swimming, last week, the pool}
+Mike attended a meeting this morning at work. {Mike, attended a meeting, this morning, work}
+Emma volunteered on Sunday at the shelter. {Emma, volunteered, on Sunday, the shelter}
+John baked cookies yesterday at home. {John, baked cookies, yesterday, home}
+Alice went to a concert last week at the stadium. {Alice, went to a concert, last week, the stadium}
+Mike went for a walk this morning at the botanical garden. {Mike, went for a walk, this morning, the botanical garden}
+Emma worked on Sunday at the office. {Emma, worked, on Sunday, the office}
+John had a barbecue yesterday at the park. {John, had a barbecue, yesterday, the park}
+Alice visited a museum last week in the city. {Alice, visited a museum, last week, the city}
+Mike had a coffee this morning at the cafe. {Mike, had a coffee, this morning, the cafe}
+Emma did yoga on Sunday at the gym. {Emma, did yoga, on Sunday, the gym}
+John went fishing yesterday at the lake. {John, went fishing, yesterday, the lake}
+Alice went hiking last week in the mountains. {Alice, went hiking, last week, the mountains}
+Mike went shopping this morning at the market. {Mike, went shopping, this morning, the market}
+Emma went to church on Sunday at the cathedral. {Emma, went to church, on Sunday, the cathedral}
+John went cycling yesterday at the park. {John, went cycling, yesterday, the park}
+Alice went sightseeing last week in the city. {Alice, went sightseeing, last week, the city}
+Mike had brunch this morning at the restaurant. {Mike, had brunch, this morning, the restaurant}
+Emma went hiking on Sunday in the forest. {Emma, went hiking, on Sunday, the forest}
+John went for a jog yesterday at the beach. {John, went for a jog, yesterday, the beach}
+Alice went shopping last week at the mall. {Alice, went shopping, last week, the mall}
+Mike played tennis this morning at the club. {Mike, played tennis, this morning, the club}
+Emma volunteered on Sunday at the community center. {Emma, volunteered, on Sunday, the community center}
+John went for a swim yesterday at the pool. {John, went for a swim, yesterday, the pool}
+Alice visited her grandmother last week at her house. {Alice, visited her grandmother, last week, her house}
+Mike went hiking this morning in the mountains. {Mike, went hiking, this morning, the mountains}
+Emma went for a run on Sunday at the park. {Emma, went for a run, on Sunday, the park}
+John played chess yesterday at home. {John, played chess, yesterday, home}
+Alice went for a walk last week at the beach. {Alice, went for a walk, last week, the beach}
+Mike played soccer this morning at the stadium. {Mike, played soccer, this morning, the stadium}
+Emma went to a birthday party on Sunday at her friend's house. {Emma, went to a birthday party, on Sunday, her friend's house}
+John went camping yesterday in the forest. {John, went camping, yesterday, the forest}
+Alice went to the movies last week at the cinema. {Alice, went to the movies, last week, the cinema}
+Mike had a barbecue this morning at the park. {Mike, had a barbecue, this morning, the park}
+Emma went to a wedding on Sunday at the church. {Emma, went to a wedding, on Sunday, the church}
+John went for a picnic yesterday at the park. {John, went for a picnic, yesterday, the park}
+Alice went to a party last week at her friend's house. {Alice, went to a party, last week, her friend's house}
+Mike went for a bike ride this morning at the park. {Mike, went for a bike ride, this morning, the park}
+Emma went to a baby shower on Sunday at her sister's house. {Emma, went to a baby shower, on Sunday, her sister's house}
+John went for a hike yesterday in the mountains. {John, went for a hike, yesterday, the mountains}
+Alice went for a drive last week in the countryside. {Alice, went for a drive, last week, the countryside}
+Mike went to the zoo this morning in the city. {Mike, went to the zoo, this morning, the city}
+Emma went for a walk on Sunday at the beach. {Emma, went for a walk, on Sunday, the beach}
+John went for a jog yesterday at the park. {John, went for a jog, yesterday, the park}
+Alice went for a bike ride last week at the park. {Alice, went for a bike ride, last week, the park}
+Mike went for a swim this morning at the beach. {Mike, went for a swim, this morning, the beach}
+Emma went to a picnic on Sunday at the park. {Emma, went to a picnic, on Sunday, the park}
+John went to a barbecue yesterday at his friend's house. {John, went to a barbecue, yesterday, his friend's house}
+Alice went for a run last week at the beach. {Alice, went for a run, last week, the beach}
+Mike went to a concert this morning at the amphitheater. {Mike, went to a concert, this morning, the amphitheater}
+Emma went to a festival on Sunday at the park. {Emma, went to a festival, on Sunday, the park}
+John went to a party yesterday at his friend's house. {John, went to a party, yesterday, his friend's house}
+Alice went to a flea market last week in the city. {Alice, went to a flea market, last week, the city}
+Mike went to the aquarium this morning at the zoo. {Mike, went to the aquarium, this morning, the zoo}
+Emma went to a farmer's market on Sunday in the city. {Emma, went to a farmer's market, on Sunday, the city}
+John went to a barbecue yesterday at the beach. {John, went to a barbecue, yesterday, the beach}
+Alice went to a museum last week in the city. {Alice, went to a museum, last week, the city}
+Mike went to the library this morning in the city. {Mike, went to the library, this morning, the city}
+Emma went to the zoo on Sunday in the city. {Emma, went to the zoo, on Sunday, the city}
+John went to the movies yesterday at the cinema. {John, went to the movies, yesterday, the cinema}
+Alice went to the beach last week in the city. {Alice, went to the beach, last week, the city}
+Mike went to the gym this morning in the city. {Mike, went to the gym, this morning, the city}
+Emma went to the pool on Sunday in the city. {Emma, went to the pool, on Sunday, the city}
+John went to the park yesterday in the city. {John, went to the park, yesterday, the city}
+Alice went to the cafe last week in the city. {Alice, went to the cafe, last week, the city}
+Mike went to the mall this morning in the city. {Mike, went to the mall, this morning, the city}
+Emma went to the restaurant on Sunday in the city. {Emma, went to the restaurant, on Sunday, the city}
+John went to the store yesterday in the city. {John, went to the store, yesterday, the city}
+Alice went to the gym last week in the city. {Alice, went to the gym, last week, the city}
+Mike went to the beach this morning in the city. {Mike, went to the beach, this morning, the city}
+Emma went to the museum on Sunday in the city. {Emma, went to the museum, on Sunday, the city}

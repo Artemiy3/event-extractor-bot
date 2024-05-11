@@ -1,25 +1,19 @@
 import telebot
 from config import config
 from extractor.event_extractor import EventExtractor
-from model.Event import Event
-
-event_extractor = EventExtractor()
-bot = telebot.TeleBot(config.get("TG_TOKEN"))
+from model.event import Event
 
 
 def convert_events(events: list[Event]) -> str:
     result = ""
     for i, event in enumerate(events):
-        result += (
-            f"\nEvent {i + 1}:\n"
-            f"action: {event.action}\n"
-            f"actor: {event.actor}\n"
-            f"object_of_action: {event.object_of_action}\n"
-            f"time: {event.time}\n"
-            f"place: {event.place}\n"
-        )
+        result += f"\nEvent {i + 1}:\n" + str(event)
 
     return result
+
+
+bot = telebot.TeleBot(config.get("TG_TOKEN"))
+event_extractor = EventExtractor()
 
 
 @bot.message_handler(content_types=['text'])

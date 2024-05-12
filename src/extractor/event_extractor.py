@@ -36,6 +36,8 @@ class EventExtractor:
                                         break
 
                                 token = anc
+                        else:
+                            continue
                     else:
                         action = token.lemma_
 

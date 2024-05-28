@@ -1,5 +1,5 @@
 .idea/
-*/config.py
+src/config.py
 stanford-ner/
 stanford-parser-full-2020-11-17/
 stanford-ner-2020-11-17/

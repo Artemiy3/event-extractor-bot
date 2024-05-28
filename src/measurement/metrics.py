@@ -1,4 +1,4 @@
-from extractor.event_extractor import EventExtractor
+# from extractor.event_extractor import EventExtractor
 from bert_score import score
 
 from extractor.stanford_extractor import extract_events
@@ -32,10 +32,14 @@ def measure():
 
         predicted_events = []
 
-        for sent in sentences:
+        for i, sent in enumerate(sentences):
+            print(i)
             try:
-                predicted_event = extract_events(sent)[0]
-                predicted_events.append(predicted_event)
+                predicted_event_list = extract_events(sent)
+                if not predicted_event_list:
+                    predicted_events.append(Event("", "", "", ""))
+                else:
+                    predicted_events.append(predicted_event_list[0])
             except IndexError:
                 print("ERROR: " + sent)
 

@@ -1,3 +1,9 @@
 .idea/
 */config.py
 stanford-ner/
+stanford-parser-full-2020-11-17/
+stanford-ner-2020-11-17/
+edu/
+META-INF/
+stanford-corenlp-4.2.0-models-english.jar
+stanford-corenlp-4.5.7/

@@ -1,3 +1,6 @@
+import telebot
+
+
 class Event:
     def __init__(self, actor: str, action: str, time: str, place: str):
         self.actor = actor
@@ -6,7 +9,11 @@ class Event:
         self.place = place
 
     def __str__(self):
-        return (f"Actor:{self.actor}\n"
-                f"Action:{self.action}\n"
-                f"Time:{self.time}\n"
-                f"Place:{self.place}\n")
+        return to_str(self)
+
+
+def to_str(event: Event):
+    return (f"*Who\\:* {telebot.formatting.escape_markdown(event.actor)}\n"
+            f"*Action\\:* {telebot.formatting.escape_markdown(event.action)}\n"
+            f"*When\\:* {telebot.formatting.escape_markdown(event.time)}\n"
+            f"*Where\\:* {telebot.formatting.escape_markdown(event.place)}\n")

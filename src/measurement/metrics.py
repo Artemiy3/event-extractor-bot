@@ -1,5 +1,7 @@
 from extractor.event_extractor import EventExtractor
 from bert_score import score
+
+from extractor.stanford_extractor import extract_events
 from model.event import Event
 
 
@@ -7,7 +9,7 @@ def convert_event(event: Event) -> str:
     return f"{event.actor}, {event.action}, {event.time}, {event.place}"
 
 
-def measure(event_extractor: EventExtractor):
+def measure():
     with open("event_extraction_dataset.txt", "r") as f:
         lines = f.readlines()
 
@@ -32,7 +34,7 @@ def measure(event_extractor: EventExtractor):
 
         for sent in sentences:
             try:
-                predicted_event = event_extractor.extract_events(sent)[0]
+                predicted_event = extract_events(sent)[0]
                 predicted_events.append(predicted_event)
             except IndexError:
                 print("ERROR: " + sent)
@@ -73,4 +75,4 @@ def measure(event_extractor: EventExtractor):
         print("F1-score: " + str(round(place_f1_score.mean().item(), 3)))
 
 
-measure(EventExtractor())
+measure()

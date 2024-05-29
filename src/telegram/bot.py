@@ -34,7 +34,7 @@ def get_text_messages(message):
                 bot.send_message(message.from_user.id,  "*Here\\'s the list of events*\\! ⬇️\n\n" + response, reply_markup=markup, parse_mode='MarkdownV2')
             else:
                 bot.send_message(message.from_user.id, "No events found in text.")
-        except RuntimeError as error:
+        except Exception as error:
             log.error(error)
             bot.send_message(message.from_user.id, 'An error occurred, please try another text.')
 

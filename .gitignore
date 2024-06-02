@@ -8,3 +8,4 @@ META-INF/
 stanford-corenlp-4.2.0-models-english.jar
 stanford-corenlp-4.5.7/
 .DS_Store
+**/logs.log
